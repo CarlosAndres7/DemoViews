@@ -12,7 +12,7 @@ namespace DemoViews
 		public MainPage()
 		{
 			InitializeComponent();
-            csfkje cjkef kejrekj
+           
 		}
 	}
 }
